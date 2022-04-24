@@ -23,7 +23,7 @@ A Flutter-based game engine.
 
 
 ## Documentation
-
+# Flame 1.1.1
 The full documentation for Flame can be found on
 [docs.flame-engine.org](https://docs.flame-engine.org/).
 
